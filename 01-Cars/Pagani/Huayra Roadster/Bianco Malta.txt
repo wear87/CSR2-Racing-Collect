@@ -1,5 +1,5 @@
     {
-      "unid": 3868,
+      "unid": 4677,
       "crdb": "Pagani_HuayraRoadsterRewardRecycled_2017",
       "awar": false,
       "grsp": [
@@ -656,5 +656,6 @@
       "whbn": "Wheel1D_3D",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 0
+      "cmlv": 0,
+      "isra": false
     }
