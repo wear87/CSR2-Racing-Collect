@@ -2,6 +2,10 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
+In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.
+Quickly find car links →  https://git.io/JfApq  <br>
+Finishing date: April 6, 2021
+
 ① Recently, we found that many users on Facebook use our photos. We welcome them to use them. However, some thieves even erase the author's information. It's very annoying that they don't respect our work achievements. Please give the author the most basic respect. Please keep the original author's information if you reprint and use them;<br>
 
 ② Donations are welcome!<br>
