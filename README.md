@@ -45,6 +45,7 @@ This project is built for car collection, learning and communication purposes. A
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 ****
 ## Update to 3.0.2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2.png)
 ****
 ## Update to 2.18.0→2.18.1→2.18.2→2.18.3
