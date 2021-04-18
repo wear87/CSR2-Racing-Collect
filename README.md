@@ -21,9 +21,7 @@ In order to make it easier for players to find cars, and the original catalog wa
 Quickly find car links →  https://git.io/JfApq  <br>
 Finishing date: April 6, 2021
 
-① Recently, we found that many users on Facebook use our photos. We welcome them to use them. However, some thieves even erase the author's information. It's very annoying that they don't respect our work achievements. Please give the author the most basic respect. Please keep the original author's information if you reprint and use them;<br>
-
-② Donations are welcome!<br>
+① Donations are welcome!<br>
 Keeping a project this big running smoothly really need lots of effort and we put lots of our free times into it.<br>
 We will keep on releasing new cars as soon as the game update is rolled out and keep them nice and clean directly extract from the game codes **for free**.<br>
 But we could need your help! Donate to this project and help us! Buy us a cup of coffee or a muffin will make our days!<br>
@@ -32,11 +30,11 @@ Join our discord channel and ask all about it in the project chatting room!<br>
 Thanks for your support and happy racing!<br>
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Paypal-Donate-Button.png)](https://www.paypal.me/wear87)
 
-③ Request to link your database to this project:<br>
+② Request to link your database to this project:<br>
 We welcome the use of our project for non-commercial purposes!<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
 
-④ Due to the large number of car catalogs, it is recommended to use the github search function to find the car you need.<br>
+③ Due to the large number of car catalogs, it is recommended to use the github search function to find the car you need.<br>
 Link address: https://git.io/JfApq <br>
 ****
 **Project Description:** <br>
