@@ -2,7 +2,22 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
-In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.
+**Important updates**
+1. The project has undergone 1 year and 6 months of updates. In order to maintain this huge project, I paid a lot of time and energy. In order to maintain my motivation for subsequent updates, after a careful decision, I changed to a partial payment model from the next version;<br>
+
+2. What is the partial payment model?<br>
+Players can freely use all the cars in the current version. The new version update will be released on github in the form of a compressed package, but it is encrypted. Players can use the compressed password after payment;<br>
+
+3. After the new version is released, the old version of the car will cancel the encryption function and archive it in the Cars folder, which players can use at will;<br>
+
+4. Charge according to the number of updates of the main version, no additional charge for sub-versions, a single payment of $10, including all cars in the current new version;<br>
+
+5. When the player pays, leave a message on the email address, I will reply to the email in time to inform the decompression password, or contact me at discord;<br>
+
+6. Payment link: (or click the donate button below) <br>
+[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal2.png)](https://www.paypal.me/wear87)
+
+In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.<br>
 Quickly find car links →  https://git.io/JfApq  <br>
 Finishing date: April 6, 2021
 
