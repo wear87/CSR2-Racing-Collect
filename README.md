@@ -10,7 +10,7 @@ Players can freely use all the cars in the current version. The new version upda
 
 3. After the new version is released, the old version of the car will cancel the encryption function and archive it in the Cars folder, which players can use at will. <br>
 
-4. Charge according to the number of updates of the main version, no additional charge for sub-versions, a single payment of $10, including all cars in the current new version.<br>
+4. Charge according to the number of updates of the main version, no additional charge for sub-versions, a single payment of $15, including all cars in the current new version.<br>
 
 5. When the player pays, leave a message on the email address, I will reply to the email in time to inform the decompression password, or contact me at discord. <br>
 
