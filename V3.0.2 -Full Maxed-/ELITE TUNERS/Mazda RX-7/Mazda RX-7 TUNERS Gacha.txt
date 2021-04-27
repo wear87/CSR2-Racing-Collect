@@ -1,4 +1,4 @@
-"crdb": "Mazda_RX7TNR_1993",
+      "crdb": "Mazda_RX7TNR_1993",
       "awar": false,
       "grsp": [
         3.483,
@@ -52,8 +52,8 @@
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 0,
-      "nuub": 0,
+      "msou": 5979000,
+      "nuub": 35,
       "ccna": 0,
       "upst": [
         {

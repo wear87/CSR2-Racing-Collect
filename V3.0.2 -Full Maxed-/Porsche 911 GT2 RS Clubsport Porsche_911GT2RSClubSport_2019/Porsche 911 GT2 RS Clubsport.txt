@@ -1,4 +1,4 @@
-"crdb": "Porsche_911GT2RSClubSport_2019",
+      "crdb": "Porsche_911GT2RSClubSport_2019",
       "awar": false,
       "grsp": [
         3.91,
@@ -54,8 +54,8 @@
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 0,
-      "nuub": 0,
+      "msou": 5979000,
+      "nuub": 35,
       "ccna": 0,
       "upst": [
         {
