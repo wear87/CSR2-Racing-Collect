@@ -10,7 +10,7 @@ Players can freely use all the cars in the current version. The new version upda
 
 3. After the new version is released, the old version of the car will cancel the encryption function and archive it in the Cars folder, which players can use at will. <br>
 
-4. Charge according to the number of updates of the main version, no additional charge for sub-versions, a single payment of $15, including all cars in the current new version.<br>
+4. Charge according to the number of updates of the main version, a single payment of $15 or $25, including all cars in the current new version.<br>
 
 5. When the player pays, leave a message on the email address, I will reply to the email in time to inform the decompression password, or contact me at discord. <br>
 
@@ -44,7 +44,7 @@ This project ONLY includes official colors and rare imports colors. <br>
 This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 ****
-## Update to 3.0.2
+## Update to 3.0.2→3.0.3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2.png)
 ****
